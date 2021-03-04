@@ -1,0 +1,2 @@
+Δεξι κλικ στο προτζεκ , properties java build path, libraries, add external jar 
+κανω remove τα jars που εχουν error 
